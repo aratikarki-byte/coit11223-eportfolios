@@ -20,18 +20,17 @@ I selected this article because it opened my eyes to the fact that governing AI 
 
 ## Artefact 2: News Article
 
-**[Insert exact headline of the UN/AI human rights article you choose to read, or another 2024–2026 AI ethics news article of your choice]**
+**Procurement and deployment of artificial intelligence must be aligned with human rights: UN experts**
 
-[Insert URL]
+https://www.ohchr.org/en/press-releases/2025/06/procurement-and-deployment-artificial-intelligence-must-be-aligned-human
 
 ### Summary of the artefact
 
-[Insert a ~60-word summary once you've picked and read the specific article — e.g. if using the UN's May 2025 report coverage: "In May 2025 the United Nations released a report warning that AI is already affecting nearly every category of human right, including privacy, equality and freedom of expression. The report found that states and businesses are often deploying AI without adequate transparency or safeguards, and called on governments to close legal gaps and prevent bias in public services and the justice system."]
+In June 2025, the UN Working Group on Business and Human Rights presented a report to the Human Rights Council warning that AI systems are transforming societies but risk undermining human rights without proper safeguards. The Working Group found that states are increasingly shifting from voluntary AI guidelines to binding legislation, but the regulatory landscape remains fragmented and lacks universally agreed standards, leaving gaps in accountability for AI-related human rights harms.
 
 ### Justification on why I chose the artefact
 
-*[Your own words — which right or issue stood out most to you? Have you seen an example of this yourself — an AI system making a decision about you, like a social media feed, a loan application, or uni systems? Link it to a concept from your unit material.]*
-
+The reason I chose this report is due to its focus on the implications for human rights caused by AI rather than the technology itself. In reading this, I have come to realize that although it is natural for the regulations concerning the use of AI to differ from one country to another since the technology itself is evolving at such a rapid rate, inconsistency in international standards may lead to problems in terms of accountability and people's protection. This ties into what we have discussed in class about the governance of AI, wherein it was explained that while it is the duty of governments to establish laws and regulations, the ethical use of the technology is the responsibility of organizations and developers themselves. Being a student in Australia, I find it necessary that governments continue to update the regulations concerning AI.
 ---
 
 ## Artefact 3: Video
@@ -50,17 +49,18 @@ I picked this video because it got me thinking about who should be in charge of 
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Insert: Workshop Week, Day, Date, Tutor, Campus**
+**Week 2, Thursday 23 July 2026, Tutor: Umapathy Venugopal, CQUniversity Sydney Campus, Kent Street**
 
-**Insert: selfie photo with something in the background that confirms attendance for that week's workshop (e.g. tutor or lecture slides)**
+![Workshop attendance photo](workshop2-attendance.jpeg)
+
 
 ### Summary of the artefact: My Personal Reflection
 
-*[What activity or discussion happened in your workshop this week? Describe it in your own words.]*
+In this week's workshop, our class discussed the question of whether AI can actually "think" or whether it only appears to think by processing data and predicting patterns. We talked about the difference between AI simulating intelligent behaviour and AI having genuine understanding or consciousness, and looked at different perspectives on this debate.
 
 ### Justification on why I chose the artefact
 
-*[What did you personally learn from the workshop, and how did it change or add to your thinking about AI? This is the artefact that most directly shows your engagement, so it needs to be genuinely yours.]*
+I do not believe that AI has a mind of its own. AI is a form of intelligence that depends entirely on the resources and data it was built on, and since it was created by humans, it is essentially shaped by human thinking rather than having genuine, independent thought. Our workshop turned into a debate about this question, with different students taking different sides, but by the end of the discussion I still held the same view — that AI simulates thinking rather than truly thinking on its own. This links back to Artefact 1's idea of AI as a "complex adaptive system" that is shaped by people, data and its environment, rather than an independent mind capable of consciousness.
 
 ---
 
