@@ -51,7 +51,9 @@ I picked this video because it got me thinking about who should be in charge of 
 
 **Week 2, Thursday 23 July 2026, Tutor: Umapathy Venugopal, CQUniversity Sydney Campus, Kent Street**
 
-![Workshop attendance photo](workshop2-attendance.jpeg)
+
+<img width="1280" height="960" alt="eport" src="https://github.com/user-attachments/assets/7ba9cc41-07f0-4b7f-82e8-cbe9de6f5f8d" />
+
 
 
 ### Summary of the artefact: My Personal Reflection
