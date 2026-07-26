@@ -14,7 +14,7 @@ The article by Janssen (2025) investigates how organisations govern generative A
 
 ### Justification on why I chose the artefact
 
-*[Your own words here — e.g. why did the "complex adaptive system" framing change how you think about AI governance? Does it connect to something from the workshop about who is accountable when an AI system causes harm — the developer, the organisation deploying it, or the system itself? Did you find this article on Google Scholar, the CQU library, or somewhere else, and why did you pick it over others?]*
+I selected this article because it opened my eyes to the fact that governing AI is not just about writing rules for the technology. The concept of generative AI as a complex adaptive system changed my thinking about AI in that it showed that AI is always influenced by people, data and the environment in which it is used. This connects to our discussions in the workshop on accountability, discussing who should be responsible when AI systems cause harm. The article reinforced the need for responsibility to be shared between developers, organisations and regulators – not put on the AI system itself. I found this article in the CQU Library because I was looking for a current, peer-reviewed article on responsible AI governance.
 
 ---
 
@@ -45,9 +45,7 @@ https://www.ie.edu/insights/videos/the-ethics-of-ai-who-controls-the-future/
 In this video, researcher David Leslie discusses how the rapid rise of generative AI since the release of ChatGPT in 2022 has outpaced ethical and regulatory frameworks. He raises concerns about AI's potential misuse in areas such as security and disinformation, and questions whether technology this powerful, which affects the public interest, should be left in the control of private companies.
 
 ### Justification on why I chose the artefact
-
-*[Your own words — what's your view on Leslie's question about private-sector control of powerful AI? Does it connect to a governance framework you've studied, like the EU AI Act or risk-based regulation? Did the video change your mind about anything?]*
-
+I picked this video because it got me thinking about who should be in charge of controlling powerful AI technologies. I think it is important that private companies continue to develop AI but I think that governments and independent regulators also have an important role to play in putting rules in place to ensure AI is used safely, ethically and fairly. This relates to our conversations in the workshop about AI governance and accountability, where we talked about responsibility for AI's impacts being a shared one, rather than one that sits with one organisation. The video made me realize that while AI has much to offer, we must have strong oversight to minimize risks and protect society.
 ---
 
 ## Artefact 4: Workshop Personal Reflection
