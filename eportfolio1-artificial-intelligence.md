@@ -43,7 +43,8 @@ https://www.ie.edu/insights/videos/the-ethics-of-ai-who-controls-the-future/
 
 In this video, researcher David Leslie discusses how the rapid rise of generative AI since the release of ChatGPT in 2022 has outpaced ethical and regulatory frameworks. He raises concerns about AI's potential misuse in areas such as security and disinformation, and questions whether technology this powerful, which affects the public interest, should be left in the control of private companies.
 
-### Justification on why I chose the artefact
+### Justification on why I chose the artefact 
+
 I picked this video because it got me thinking about who should be in charge of controlling powerful AI technologies. I think it is important that private companies continue to develop AI but I think that governments and independent regulators also have an important role to play in putting rules in place to ensure AI is used safely, ethically and fairly. This relates to our conversations in the workshop about AI governance and accountability, where we talked about responsibility for AI's impacts being a shared one, rather than one that sits with one organisation. The video made me realize that while AI has much to offer, we must have strong oversight to minimize risks and protect society.
 ---
 
@@ -65,11 +66,10 @@ In this week's workshop, our class discussed the question of whether AI can actu
 I do not believe that AI has a mind of its own. AI is a form of intelligence that depends entirely on the resources and data it was built on, and since it was created by humans, it is essentially shaped by human thinking rather than having genuine, independent thought. Our workshop turned into a debate about this question, with different students taking different sides, but by the end of the discussion I still held the same view — that AI simulates thinking rather than truly thinking on its own. This links back to Artefact 1's idea of AI as a "complex adaptive system" that is shaped by people, data and its environment, rather than an independent mind capable of consciousness.
 
 ---
-
 ## References in CQU Harvard Style
 
 Janssen, M 2025, 'Responsible governance of generative AI: conceptualizing GenAI as complex adaptive systems', Policy and Society, vol. 44, no. 1, pp. 38–51.
 
-[Insert reference for your chosen news article, e.g.: Author, Initial Year, 'Title of article', Publication Name, date published, viewed [date you accessed it], URL]
+Office of the United Nations High Commissioner for Human Rights (OHCHR) 2025, 'Procurement and deployment of artificial intelligence must be aligned with human rights: UN experts', press release, 19 June 2025, viewed 27 July 2026, https://www.ohchr.org/en/press-releases/2025/06/procurement-and-deployment-artificial-intelligence-must-be-aligned-human
 
-IE Insights 2025, The Ethics of AI: Who Controls the Future?, video, 13 March 2025, viewed [insert date], https://www.ie.edu/insights/videos/the-ethics-of-ai-who-controls-the-future/
+IE Insights 2025, The Ethics of AI: Who Controls the Future?, video, 13 March 2025, viewed 27 July 2026, https://www.ie.edu/insights/videos/the-ethics-of-ai-who-controls-the-future/
