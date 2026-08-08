@@ -26,7 +26,6 @@ I chose this artefact because it helped clarify the understanding of both theori
 
 ## Artefact 4: Workshop Attendance
 
-*[Insert selfie image here]*
 
 This is a selfie taken during our Week 4 workshop (Thursday, 6 August), with classmates in our COIT11223 session. The workshop covered five ethical theories — Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory, and Virtue Ethics — applied to scenarios including the App Release Dilemma, GenAI academic misconduct, and data privacy (the "Bill" scenario using Social Contract Theory).
 
