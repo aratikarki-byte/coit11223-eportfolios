@@ -48,7 +48,7 @@ I chose this artefact because it helped clarify the understanding of both theori
 
 Week 4, Thursday 6 August 2026, Tutor: Umapathy Venugopal, CQUniversity Sydney Campus, Kent Street
 
-
+[Insert selfie here]
 
 ### Summary of the artefact: My Personal Reflection
 
@@ -64,5 +64,7 @@ Madanchian, M and Taherdoost, H 2025, 'Ethical theories, governance models, and 
 
 Vemoori, V 2024, 'Navigating the ethical dilemmas of self-driving cars: who decides when safety is at risk?', Forbes, 23 October, viewed 8 August 2026, https://www.forbes.com/councils/forbestechcouncil/2024/10/23/navigating-the-ethical-dilemmas-of-self-driving-cars-who-decides-when-safety-is-at-risk/
 
-ziaIAS 2024, Utilitarianism vs. Deontology: The Ethical Dilemma Explained, video, 8 December, viewed 8 August 2026, https://www.youtube.com/shorts/RrB6gbzfNZ4
+ziaIAS 2024, Utilitarianism vs. Deontology: The Ethical Dilemma Explained, video, 8 December, viewed 8 August 2026, https://www.youtube.com/shorts/RrB6gbzfNZ4<img width="1206" height="1608" alt="attandece" src="https://github.com/user-attachments/assets/313603d6-a79d-46cf-92ed-19cce5c76351" />
+<img width="1206" height="904" alt="attandace 2" src="https://github.com/user-attachments/assets/9857e86f-4778-4ce8-a22b-31ebd26d4eaa" />
+
 
