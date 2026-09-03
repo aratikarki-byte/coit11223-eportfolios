@@ -45,6 +45,8 @@ The reason why I selected this video is that it described a difficult legal hist
 During the process of planning and research of this e-portfolio, I used AI (Claude) to find relevant and recent artefacts on intellectual property and AI, and to compose preliminary summaries of them. I then verified all the sources myself, making sure that they are credible and written in 2024 and later years, and rewrote the reflections in my own words before submitting.
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/4eb5c019-a8cf-4bc8-9146-304588a47b6b" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/74d04ca3-e425-4fcf-8333-5ce8a9075f45" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f9ecb29b-6b3a-4be3-984b-b9899205835a" />
+
 
 
 
