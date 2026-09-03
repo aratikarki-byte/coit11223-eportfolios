@@ -46,6 +46,7 @@ During the process of planning and research of this e-portfolio, I used AI (Clau
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/4eb5c019-a8cf-4bc8-9146-304588a47b6b" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/74d04ca3-e425-4fcf-8333-5ce8a9075f45" />
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f9ecb29b-6b3a-4be3-984b-b9899205835a" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fec9c80b-10ab-4912-9734-18cf4f6f7f94" />
 
 
 
