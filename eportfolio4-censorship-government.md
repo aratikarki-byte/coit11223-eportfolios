@@ -1,5 +1,7 @@
 #e-portfolio-4-Censorship-and-Government
+
 A collection of artefacts that demonstrate what I have learnt about Censorship and Government this week.
+
 Artefact 1: Online Safety Act 2021
 Australian Human Rights Commission – Online Safety Act 2021: Human Rights Review (2024)
 https://humanrights.gov.au/resource-hub/by-resource-type/submissions/technology-and-human-rights/online-safety
