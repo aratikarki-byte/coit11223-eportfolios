@@ -65,6 +65,8 @@ In the 2025 explanation by the Australian Human Rights Commission, freedom of ex
 This artifact was selected by me because it enhanced my knowledge about censorship and the government in terms of social media and internet content but also taught me that freedom of expression involves public engagement and peaceful protests. I found this pertinent to the course as it is not only technological or governmental issues that have an impact on each other; rather, there are social issues in which personal rights are involved too. It became clear for me that any government restrictions on communication have to be taken into account seriously by ICT professionals.
 
 ---
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a656a185-27b8-45ef-851d-f2340592a5ee" />
+
 
 ## References
 
